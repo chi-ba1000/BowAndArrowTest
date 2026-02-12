@@ -7,7 +7,7 @@ Unityで作成したゲームというより、挙動のテストを主眼に置
 
 
 ## プレイ動画・スクリーンショット
-<https://chi-ba.mydns.jp/blog/?p=62>
+<https://drive.google.com/file/d/1vVLH2n9RcpI6UpxOZr3AmVtKZmnUgBPX/view?usp=sharing>
 
 ## 操作方法
 - W/A/S/D：移動
